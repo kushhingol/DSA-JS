@@ -22,4 +22,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 
 |                      First Header                       |                           Second Header                           |
 | :-----------------------------------------------------: | :---------------------------------------------------------------: |
-| Generate Fibonacci Sequence (Iterator Generator Method) | [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/) |
+| Generate Fibonacci Sequence (Iterator Generator Method) | [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/index.ts) |
