@@ -3,6 +3,8 @@
     "noImplicitAny": false,
     "strict": false,
     "target": "es2015",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "module": "commonjs"
   }
 }
