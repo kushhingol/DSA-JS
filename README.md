@@ -26,3 +26,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                   Promise Time Limit                    |        [Promise Time Limit](./%20Promise%20Time%20Limit/)         |
 |                     Closure Counter                     |              [Closure Counter]("./Closure-Counter/")              |
 |                  Cache With Time Limit                  |        [Cache With Time Limit]("./Cache With Time Limit")         |
+|                          Sleep                          |                        [Sleep]("./Sleep")                         |

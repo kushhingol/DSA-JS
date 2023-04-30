@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "strict": false,
     "target": "es2015",
     "moduleResolution": "node",
