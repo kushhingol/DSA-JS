@@ -24,7 +24,7 @@ e.g: `npm run test Generate Fibonacci Sequence`
 | :-----------------------------------------------------: | :---------------------------------------------------------------: |
 | Generate Fibonacci Sequence (Iterator Generator Method) | [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/) |
 |                   Promise Time Limit                    |        [Promise Time Limit](./%20Promise%20Time%20Limit/)         |
-|                     Closure Counter                     |              [Closure Counter]("./Closure-Counter/")              |
-|                  Cache With Time Limit                  |        [Cache With Time Limit]("./Cache With Time Limit")         |
-|                          Sleep                          |                        [Sleep]("./Sleep")                         |
-|                  Function Composition                   |         [Function Composition]("./Function Composition")          |
+|                     Closure Counter                     |               [Closure Counter](./Closure-Counter/)               |
+|                  Cache With Time Limit                  |      [Cache With Time Limit](./Cache%20With%20Time%20Limit/)      |
+|                          Sleep                          |                         [Sleep](./Sleep/)                         |
+|                  Function Composition                   |         [Function Composition](./Function%20Composition/)         |
