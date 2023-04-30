@@ -27,3 +27,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                     Closure Counter                     |              [Closure Counter]("./Closure-Counter/")              |
 |                  Cache With Time Limit                  |        [Cache With Time Limit]("./Cache With Time Limit")         |
 |                          Sleep                          |                        [Sleep]("./Sleep")                         |
+|                  Function Composition                   |         [Function Composition]("./Function Composition")          |
