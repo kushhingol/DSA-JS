@@ -20,7 +20,7 @@ e.g: `npm run test Generate Fibonacci Sequence`
 
 ## Problem Statements
 
-|                      First Header                       |                           Second Header                           |
+|                    Problem Statement                    |                          Solution Folder                          |
 | :-----------------------------------------------------: | :---------------------------------------------------------------: |
 | Generate Fibonacci Sequence (Iterator Generator Method) | [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/) |
 |                   Promise Time Limit                    |        [Promise Time Limit](./%20Promise%20Time%20Limit/)         |
