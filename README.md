@@ -20,7 +20,7 @@ e.g: `npm run test Generate Fibonacci Sequence`
 
 ## Problem Statements
 
-|                      First Header                       |                           Second Header                           |
+|                    Problem Statement                    |                          Solution Folder                          |
 | :-----------------------------------------------------: | :---------------------------------------------------------------: |
 | Generate Fibonacci Sequence (Iterator Generator Method) | [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/) |
 |                   Promise Time Limit                    |        [Promise Time Limit](./%20Promise%20Time%20Limit/)         |
@@ -28,3 +28,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                  Cache With Time Limit                  |      [Cache With Time Limit](./Cache%20With%20Time%20Limit/)      |
 |                          Sleep                          |                         [Sleep](./Sleep/)                         |
 |                  Function Composition                   |         [Function Composition](./Function%20Composition/)         |
+|                  Array Prorotype Last                   |        [Array Prorotype Last](./Array%20Prototype%20Last/)        |
