@@ -30,3 +30,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                  Function Composition                   |         [Function Composition](./Function%20Composition/)         |
 |                  Array Prorotype Last                   |        [Array Prorotype Last](./Array%20Prototype%20Last/)        |
 |               Array Reduce Transformation               | [Array Reduce Transformation](./Array%20Reduce%20Transformation/) |
+|                         Counter                         |                       [Counter]('./Counter)                       |
