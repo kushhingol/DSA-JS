@@ -32,3 +32,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |               Array Reduce Transformation               | [Array Reduce Transformation](./Array%20Reduce%20Transformation/) |
 |                         Counter                         |                       [Counter]('./Counter)                       |
 |                Array Map Transformation                 |    [Array Map Transformation](./Array%20Map%20Transformation/)    |
+|                 Allow One Function Call                 |    [Allow One Function Call](./Allow%20One%20Function%20Call/)    |
