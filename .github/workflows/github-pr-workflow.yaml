@@ -2,8 +2,14 @@ name: PR checks
 
 ##
 on:
-  pull_request: branches
-    - main
+  push:
+    # Trigger the workflow on push event for all branches
+    branches:
+      -  '**'
+  pull_request:
+    # Trigger the workflow on pull request event for main branch
+    branches:
+      - main
 jobs:
   workflow:
     name: "Code Formatter and Test cases"
@@ -28,14 +34,14 @@ jobs:
       - name: On Prettier Failure
         if: steps.prettier-checks.outcome === 'failure'
         run: |
-        echo "Code is not formatted by prettier 😭 but don't worry we got you"
+        echo 'Code is not formatted by prettier 😭 but do not worry we got you'
         npx prettier --write .
       - name: Run jest test
         id: jest-test
         run: npn run test
       - name: Test success
         if: steps.jest-test.outcome === 'success'
-        run: echo "All test passed ✅"
+        run: echo 'All test passed ✅'
       - name: Test failure
         if: steps.jest-test.outcome === 'failure'
-        run: echo "Test failed 🔴"
+        run: echo 'Test failed 🔴'
