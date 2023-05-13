@@ -2,18 +2,14 @@ name: PR checks
 
 ##
 on:
-  push:
-    # Trigger the workflow on push event for all branches
-    branches:
-      -  '**'
   pull_request:
     # Trigger the workflow on pull request event for main branch
     branches:
       - main
 jobs:
   build:
-    name: "Code Formatter and Test cases"
-
+    name: "Code Formatter and Run Test cases"
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
@@ -22,26 +18,25 @@ jobs:
         with:
           node-version: "16.x"
           cache: npm
-          cache-dependency-path: src/package-lock.json
       - name: Install dependencies
         run: npm install
       - name: Prettier checks
         id: prettier-checks
         run: npx prettier --check .
       - name: On Prettier Success
-        if: steps.build.outcome === 'success'
+        if: steps.build.outcome == 'success'
         run: echo "Code is formatted by prettier 🎉"
       - name: On Prettier Failure
-        if: steps.prettier-checks.outcome === 'failure'
+        if: steps.prettier-checks.outcome == 'failure'
         run: |
-        echo 'Code is not formatted by prettier 😭 but do not worry we got you'
-        npx prettier --write .
+          echo "Code is not formatted by prettier 😭 but do not worry we got you"
+          npx prettier --write .
       - name: Run jest test
         id: jest-test
-        run: npn run test
+        run: npm run test
       - name: Test success
-        if: steps.jest-test.outcome === 'success'
+        if: steps.jest-test.outcome == 'success'
         run: echo 'All test passed ✅'
       - name: Test failure
-        if: steps.jest-test.outcome === 'failure'
+        if: steps.jest-test.outcome == 'failure'
         run: echo 'Test failed 🔴'
