@@ -33,3 +33,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                         Counter                         |                       [Counter]('./Counter)                       |
 |                Array Map Transformation                 |    [Array Map Transformation](./Array%20Map%20Transformation/)    |
 |                 Allow One Function Call                 |    [Allow One Function Call](./Allow%20One%20Function%20Call/)    |
+|                     Memoized Method                     |             [Memoized Method](./Memoized%20Function/)             |
