@@ -28,7 +28,7 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                  Cache With Time Limit                  |      [Cache With Time Limit](./Cache%20With%20Time%20Limit/)      |
 |                          Sleep                          |                         [Sleep](./Sleep/)                         |
 |                  Function Composition                   |         [Function Composition](./Function%20Composition/)         |
-|                  Array Prorotype Last                   |        [Array Prorotype Last](./Array%20Prototype%20Last/)        |
+|                  Array Prototype Last                   |        [Array Prototype Last](./Array%20Prototype%20Last/)        |
 |               Array Reduce Transformation               | [Array Reduce Transformation](./Array%20Reduce%20Transformation/) |
 |                         Counter                         |                       [Counter]('./Counter)                       |
 |                Array Map Transformation                 |    [Array Map Transformation](./Array%20Map%20Transformation/)    |
