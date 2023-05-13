@@ -23,7 +23,6 @@ describe("Test memoize method", () => {
         const [a, b] = inputs[i].params;
         expect(memoizedMethod(a, b)).toBe(inputs[i].result);
       } else {
-        console.log(callCount);
         expect(callCount).toBe(inputs[i].result);
       }
     });
