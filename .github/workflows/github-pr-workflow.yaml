@@ -2,17 +2,13 @@ name: PR checks
 
 ##
 on:
-  push:
-    # Trigger the workflow on push event for all branches
-    branches:
-      - "**"
   pull_request:
     # Trigger the workflow on pull request event for main branch
     branches:
       - main
 jobs:
   build:
-    name: "Code Formatter and Test cases"
+    name: "Code Formatter and Run Test cases"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
