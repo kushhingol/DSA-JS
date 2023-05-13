@@ -5,7 +5,7 @@ on:
   push:
     # Trigger the workflow on push event for all branches
     branches:
-      -  '**'
+      - "**"
   pull_request:
     # Trigger the workflow on pull request event for main branch
     branches:
@@ -34,8 +34,8 @@ jobs:
       - name: On Prettier Failure
         if: steps.prettier-checks.outcome === 'failure'
         run: |
-        echo 'Code is not formatted by prettier 😭 but do not worry we got you'
-        npx prettier --write .
+          echo "Code is not formatted by prettier 😭 but do not worry we got you"
+          npx prettier --write .
       - name: Run jest test
         id: jest-test
         run: npn run test
