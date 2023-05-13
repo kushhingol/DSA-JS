@@ -37,7 +37,7 @@ jobs:
           npx prettier --write .
       - name: Run jest test
         id: jest-test
-        run: npn run test
+        run: npm run test
       - name: Test success
         if: steps.jest-test.outcome == 'success'
         run: echo 'All test passed ✅'
