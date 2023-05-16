@@ -35,3 +35,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Allow One Function Call                 |    [Allow One Function Call](./Allow%20One%20Function%20Call/)    |
 |                         Curried                         |                       [Curried](./Curried/)                       |
 |                     Memoized Method                     |             [Memoized Method](./Memoized%20Function/)             |
+|                       Chunk Array                       |                  [Chunk Array](./Chunk%20Array/)                  |
