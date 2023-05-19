@@ -36,3 +36,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                         Curried                         |                       [Curried](./Curried/)                       |
 |                     Memoized Method                     |             [Memoized Method](./Memoized%20Function/)             |
 |                       Chunk Array                       |                  [Chunk Array](./Chunk%20Array/)                  |
+|                        Debounce                         |                      [Debounce](./Debounce/)                      |
