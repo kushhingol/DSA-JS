@@ -37,3 +37,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                     Memoized Method                     |             [Memoized Method](./Memoized%20Function/)             |
 |                       Chunk Array                       |                  [Chunk Array](./Chunk%20Array/)                  |
 |                        Debounce                         |                      [Debounce](./Debounce/)                      |
+|                       Deep Equal                        |                  [Deep Equal](./Deeply%20Equal/)                  |
