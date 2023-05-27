@@ -40,3 +40,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                       Deep Equal                        |                      [Deep Equal](./Deeply%20Equal/)                       |
 |             Difference between two objects              | [Difference between two objects](./Differences%20Between%20Two%20Objects/) |
 |                     JSON stringify                      |                    [JSON stringify](./JSON%20Stringfy/)                    |
+|                Array of Object to Matrix                |     [Array of Object to matrix](./Array%20Of%20Object%20to%20Matrix/)      |
