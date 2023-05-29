@@ -42,3 +42,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                     JSON stringify                      |                    [JSON stringify](./JSON%20Stringfy/)                    |
 |                Array of Object to Matrix                |     [Array of Object to matrix](./Array%20Of%20Object%20to%20Matrix/)      |
 |                        Group By                         |                         [Group By](./Group%20By/)                          |
+|                       InstanceOf                        |                        [InstanceOf](./InstanceOf/)                         |
