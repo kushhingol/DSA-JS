@@ -44,3 +44,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                        Group By                         |                         [Group By](./Group%20By/)                          |
 |                       InstanceOf                        |                        [InstanceOf](./InstanceOf/)                         |
 |                      Call Polyfill                      |                    [Call Polyfill](./Call%20Polyfill/)                     |
+|                      Event Emitter                      |                    [Event Emitter](./Event%20Emitter/)                     |
