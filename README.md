@@ -45,3 +45,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                       InstanceOf                        |                        [InstanceOf](./InstanceOf/)                         |
 |                      Call Polyfill                      |                    [Call Polyfill](./Call%20Polyfill/)                     |
 |                      Event Emitter                      |                    [Event Emitter](./Event%20Emitter/)                     |
+|                      Array Wrapper                      |                    [Array Wrapper](./Array%20Wrapper/)                     |
