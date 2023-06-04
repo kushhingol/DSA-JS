@@ -6,6 +6,10 @@ A debounced function is a function whose execution is delayed by t milliseconds 
 
 For example, let's say t = 50ms, and the function was called at 30ms, 60ms, and 100ms. The first 2 function calls would be cancelled, and the 3rd function call would be executed at 150ms. If instead t = 35ms, The 1st call would be cancelled, the 2nd would be executed at 95ms, and the 3rd would be executed at 135ms.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/debounce/editorial/?utm_campaign=DailyD15&utm_medium=Email&utm_source=Daily&gio_link_id=Yo10KlQP)
+
 ## Example 1
 
 ```JS

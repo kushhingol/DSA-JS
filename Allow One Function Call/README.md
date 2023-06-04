@@ -5,6 +5,10 @@ Given a function fn, return a new function that is identical to the original fun
 The first time the returned function is called, it should return the same result as fn.
 Every subsequent time it is called, it should return undefined.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/allow-one-function-call/editorial/?utm_campaign=DailyD8&utm_medium=Email&utm_source=Daily&gio_link_id=4RzyEnN9)
+
 ## Example 1
 
 ```JS

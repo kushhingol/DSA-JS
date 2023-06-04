@@ -8,6 +8,10 @@ If the length of the array is 0, it should return init.
 
 Please solve it without using the built-in Array.reduce method.
 
+## Editorial
+
+[Editorial](https://leetcode.com/problems/array-reduce-transformation/editorial/?utm_campaign=DailyD6&utm_medium=Email&utm_source=Daily&gio_link_id=kojBgyKo)
+
 ## Example 1
 
 ```

@@ -8,6 +8,10 @@ The provided callback fn will accept an item in the array and return a string ke
 
 The order of each value list should be the order the items appear in the array. Any order of keys is acceptable.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/group-by/editorial/?utm_campaign=DailyD24&utm_medium=Email&utm_source=Daily&gio_link_id=a9a5VZ69)
+
 # Example 1
 
 ```JS

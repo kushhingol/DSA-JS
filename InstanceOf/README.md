@@ -4,6 +4,10 @@ Write a function that checks if a given value is an instance of a given class or
 
 There are no constraints on the data types that can be passed to the function. For example, the value or the class could be undefined.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/check-if-object-instance-of-class/editorial/?utm_campaign=DailyD25&utm_medium=Email&utm_source=Daily&gio_link_id=nPN45jJ9)
+
 # Example 1
 
 ```JS
