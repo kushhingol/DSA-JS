@@ -8,6 +8,10 @@ The function composition of an empty list of functions is the identity function 
 
 You may assume each function in the array accepts one integer as input and returns one integer as output.
 
+## Editorial
+
+[Editorial](https://leetcode.com/problems/function-composition/editorial/?utm_campaign=DailyD7&utm_medium=Email&utm_source=Daily&gio_link_id=GRwNYaJ9)
+
 ## Example 1
 
 ```

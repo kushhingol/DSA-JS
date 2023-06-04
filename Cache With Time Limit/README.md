@@ -10,6 +10,10 @@ get(key): if an un-expired key exists, it should return the associated value. Ot
 
 count(): returns the count of un-expired keys.
 
+## Editorial
+
+[Editorial](https://leetcode.com/problems/cache-with-time-limit/editorial/?utm_campaign=DailyD14&utm_medium=Email&utm_source=Daily&gio_link_id=korbYD3o)
+
 # Example 1
 
 ```

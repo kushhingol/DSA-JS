@@ -10,6 +10,10 @@ Your EventEmitter class should have the following two methods:
 
     emit - This method takes in two arguments: the name of an event as a string and an optional array of arguments that will be passed to the callback(s). If there are no callbacks subscribed to the given event, return an empty array. Otherwise, return an array of the results of all callback calls in the order they were subscribed.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/event-emitter/editorial/?utm_campaign=DailyD27&utm_medium=Email&utm_source=Daily&gio_link_id=a9By01Xo)
+
 # Example 1
 
 ```JS

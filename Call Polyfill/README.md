@@ -18,6 +18,10 @@ However, calling the function like tax.callPolyfill({item: "salad"}, 10, 0.1) wi
 
 Please solve this without using the built-in Function.call method.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/call-function-with-custom-context/editorial/?utm_campaign=DailyD26&utm_medium=Email&utm_source=Daily&gio_link_id=4PY7wZ79)
+
 # Example 1
 
 ```JS

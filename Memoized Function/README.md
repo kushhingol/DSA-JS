@@ -10,6 +10,10 @@ You can assume there are 3 possible input functions: sum, fib, and factorial.
 - fib accepts a single integer n and returns 1 if n <= 1 or fib(n - 1) + fib(n - 2) otherwise.
 - factorial accepts a single integer n and returns 1 if n <= 1 or factorial(n - 1) \* n otherwise.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/memoize/editorial/?utm_campaign=DailyD9&utm_medium=Email&utm_source=Daily&gio_link_id=qR5E7eAR)
+
 ## Example 1
 
 ```JS

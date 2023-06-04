@@ -8,6 +8,10 @@ You may assume both objects are the output of JSON.parse. In other words, they a
 
 Please solve it without using lodash's \_.isEqual() function.
 
+## Editorial
+
+[Editorial](https://leetcode.com/problems/json-deep-equal/editorial/?utm_campaign=DailyD17&utm_medium=Email&utm_source=Daily&gio_link_id=nP2127dR)
+
 ## Example 1
 
 ```JS

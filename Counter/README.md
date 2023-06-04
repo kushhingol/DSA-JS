@@ -8,6 +8,10 @@ The three functions are:
     decrement() reduces the current value by 1 and then returns it.
     reset() sets the current value to init and then returns it.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/counter-ii/editorial/?utm_campaign=DailyD3&utm_medium=Email&utm_source=Daily&gio_link_id=1R3l3ErP)
+
 ## Example 1:
 
 Input: init = 5, calls = ["increment","reset","decrement"]

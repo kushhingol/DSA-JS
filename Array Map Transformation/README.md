@@ -6,6 +6,10 @@ The returned array should be created such that returnedArray[i] = fn(arr[i], i).
 
 Please solve it without the built-in Array.map method.
 
+## Editorial
+
+[Editorial](https://leetcode.com/problems/apply-transform-over-each-element-in-array/editorial/?utm_campaign=DailyD4&utm_medium=Email&utm_source=Daily&gio_link_id=xo040rVo)
+
 ## Example 1:
 
 ```

@@ -6,6 +6,10 @@ The function should compare the properties of the two objects and identify any c
 
 You may assume that both objects are the output of JSON.parse.
 
+# Editorial
+
+[Editorial](https://leetcode.com/problems/differences-between-two-objects/editorial/?utm_campaign=DailyD20&utm_medium=Email&utm_source=Daily&gio_link_id=j9yDnYro)
+
 # Example 1
 
 ```JS
