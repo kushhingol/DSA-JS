@@ -52,3 +52,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                      Array Wrapper                      |                    [Array Wrapper](./Array%20Wrapper/)                     |
 | Generate Fibonacci Sequence (Iterator Generator Method) |     [Generate Fibonacci Sequence](./Generate%20Fibonacci%20Sequence/)      |
 |                 Nested Array Generator                  |          [Nested Array Generator](./Nested%20Array%20Generator/)           |
+|                 Reverse Snail Traversal                 |          [Reverse Snail Traversal](./Reverse-Snail-Traversal/)             |
