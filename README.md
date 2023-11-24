@@ -54,3 +54,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Nested Array Generator                  |          [Nested Array Generator](./Nested%20Array%20Generator/)           |
 |            Reverse Snail Traversal (Medium)             |           [Reverse Snail Traversal](./Reverse-Snail-Traversal/)            |
 |                 Compact Object (Medium)                 |                   [Compact Object](./Compact%20Object/)                    |
+|               Zigzag conversion (Medium)                |                [Zigzag Conversion](./Zigzag%20Conversion/)                 |
