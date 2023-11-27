@@ -55,3 +55,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |            Reverse Snail Traversal (Medium)             |           [Reverse Snail Traversal](./Reverse-Snail-Traversal/)            |
 |                 Compact Object (Medium)                 |                   [Compact Object](./Compact%20Object/)                    |
 |               Zigzag conversion (Medium)                |                [Zigzag Conversion](./Zigzag%20Conversion/)                 |
+|                     Reverse Integer                     |                  [Reverse Integer](./Reverse%20Integer/)                   |
