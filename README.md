@@ -56,3 +56,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Compact Object (Medium)                 |                   [Compact Object](./Compact%20Object/)                    |
 |               Zigzag conversion (Medium)                |                [Zigzag Conversion](./Zigzag%20Conversion/)                 |
 |                     Reverse Integer                     |                  [Reverse Integer](./Reverse%20Integer/)                   |
+|                 Max Area (Imp) (Medium)                 |                         [Max Area](./Max%20Area/)                          |
