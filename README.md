@@ -58,3 +58,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |             Reverse Integer (IMP) (Medium)              |                  [Reverse Integer](./Reverse%20Integer/)                   |
 |            String to Integer (IMP) (Medium)             |               [String to Integer](./String%20to%20Integer/)                |
 |                 Max Area (Imp) (Medium)                 |                         [Max Area](./Max%20Area/)                          |
+|                    Integer to Roman                     |                  [Integer to Roman](./Integer-to-Roman/)                   |
