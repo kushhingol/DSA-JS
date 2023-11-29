@@ -55,4 +55,6 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |            Reverse Snail Traversal (Medium)             |           [Reverse Snail Traversal](./Reverse-Snail-Traversal/)            |
 |                 Compact Object (Medium)                 |                   [Compact Object](./Compact%20Object/)                    |
 |               Zigzag conversion (Medium)                |                [Zigzag Conversion](./Zigzag%20Conversion/)                 |
-|                     Reverse Integer                     |                  [Reverse Integer](./Reverse%20Integer/)                   |
+|             Reverse Integer (IMP) (Medium)              |                  [Reverse Integer](./Reverse%20Integer/)                   |
+|            String to Integer (IMP) (Medium)             |               [String to Integer](./String%20to%20Integer/)                |
+|                 Max Area (Imp) (Medium)                 |                         [Max Area](./Max%20Area/)                          |
