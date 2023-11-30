@@ -59,3 +59,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |            String to Integer (IMP) (Medium)             |               [String to Integer](./String%20to%20Integer/)                |
 |                 Max Area (Imp) (Medium)                 |                         [Max Area](./Max%20Area/)                          |
 |                    Integer to Roman                     |                  [Integer to Roman](./Integer-to-Roman/)                   |
+|              Binary Tree Inorder Traverse               |           [Binary Tree Inorder Traverse](./Binary-tree-inorder/)           |
