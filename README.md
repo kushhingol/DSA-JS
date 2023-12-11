@@ -61,3 +61,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                    Integer to Roman                     |                  [Integer to Roman](./Integer-to-Roman/)                   |
 |              Binary Tree Inorder Traverse               |           [Binary Tree Inorder Traverse](./Binary-tree-inorder/)           |
 |                        Same Tree                        |                         [Same Tree](./Same-Tree/)                          |
+|                          Power                          |                             [Power](./Power/)                              |
