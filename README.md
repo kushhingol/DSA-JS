@@ -60,3 +60,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Max Area (Imp) (Medium)                 |                         [Max Area](./Max%20Area/)                          |
 |                    Integer to Roman                     |                  [Integer to Roman](./Integer-to-Roman/)                   |
 |              Binary Tree Inorder Traverse               |           [Binary Tree Inorder Traverse](./Binary-tree-inorder/)           |
+|                        Same Tree                        |                         [Same Tree](./Same-Tree/)                          |
