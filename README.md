@@ -64,3 +64,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                          Power                          |                             [Power](./Power/)                              |
 |                     Symmetric Tree                      |                    [Symmetric-Tree](./Symmetric-Tree/)                     |
 |                        Max Depth                        |                         [Max-Depth](./Max-Depth/)                          |
+|                   Sorted Array To BST                   |                    [Sorted Array To BST](./Sorted-BST/)                    |
