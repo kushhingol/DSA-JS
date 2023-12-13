@@ -62,3 +62,5 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |              Binary Tree Inorder Traverse               |           [Binary Tree Inorder Traverse](./Binary-tree-inorder/)           |
 |                        Same Tree                        |                         [Same Tree](./Same-Tree/)                          |
 |                          Power                          |                             [Power](./Power/)                              |
+|                     Symmetric Tree                      |                    [Symmetric-Tree](./Symmetric-Tree/)                     |
+|                        Max Depth                        |                         [Max-Depth](./Max-Depth/)                          |
