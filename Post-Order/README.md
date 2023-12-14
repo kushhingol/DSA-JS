@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Pre order tree traverse
+Post order tree traverse
 
 ## Example
 
