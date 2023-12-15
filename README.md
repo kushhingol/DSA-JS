@@ -65,3 +65,5 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                     Symmetric Tree                      |                    [Symmetric-Tree](./Symmetric-Tree/)                     |
 |                        Max Depth                        |                         [Max-Depth](./Max-Depth/)                          |
 |                   Sorted Array To BST                   |                    [Sorted Array To BST](./Sorted-BST/)                    |
+|                 Pre Order Tree Traverse                 |              [Pre Order Tree Traverse](./Pre-Order-Traverse/)              |
+|                Post order Tree Traverse                 |                 [Post Order Tree Traverse](./Post-Order/)                  |
