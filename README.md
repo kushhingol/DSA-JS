@@ -68,3 +68,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Pre Order Tree Traverse                 |              [Pre Order Tree Traverse](./Pre-Order-Traverse/)              |
 |                Post order Tree Traverse                 |                 [Post Order Tree Traverse](./Post-Order/)                  |
 |                     Is Happy Number                     |                   [Is Happy Number](./Is-Happy-Number/)                    |
+|                   Invert Binary Tree                    |                [Invert Binary Tree](./Invert-Binary-Tree/)                 |
