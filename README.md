@@ -71,3 +71,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                   Invert Binary Tree                    |                [Invert Binary Tree](./Invert-Binary-Tree/)                 |
 |                    Count Tree Nodes                     |                   [Count Tree Node](./Count-Tree-Nodes/)                   |
 |                      Power Of Two                       |                      [Power of Two](./Power-Of-Two/)                       |
+|                         Anagram                         |                           [Anagram](./Anagram/)                            |
