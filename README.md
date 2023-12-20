@@ -72,3 +72,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                    Count Tree Nodes                     |                   [Count Tree Node](./Count-Tree-Nodes/)                   |
 |                      Power Of Two                       |                      [Power of Two](./Power-Of-Two/)                       |
 |                         Anagram                         |                           [Anagram](./Anagram/)                            |
+|                    Stack with Queue                     |                  [Stack with Queue](./Stack-With-Queue/)                   |
