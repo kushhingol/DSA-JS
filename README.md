@@ -74,3 +74,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                         Anagram                         |                           [Anagram](./Anagram/)                            |
 |                    Stack with Queue                     |                  [Stack with Queue](./Stack-With-Queue/)                   |
 |                  Has Path Sum In Tree                   |              [Has Path Sum In Tree](./Has-Path-Sum-In-Tree/)               |
+|                     Perfect Square                      |                    [Perfect Square](./Perfect-Square/)                     |
