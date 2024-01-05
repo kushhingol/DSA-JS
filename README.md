@@ -76,3 +76,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                  Has Path Sum In Tree                   |              [Has Path Sum In Tree](./Has-Path-Sum-In-Tree/)               |
 |                     Perfect Square                      |                    [Perfect Square](./Perfect-Square/)                     |
 |        Matrix Spiral (Left-Right) & (Top-Bottom)        |                     [Matrix Spiral](./Matrix-Spiral/)                      |
+|        Generate Matrix By Spiral (Left - Right)         |         [Generate Matrix By Spiral](./Generate-Matrix-By-Spiral/)          |
