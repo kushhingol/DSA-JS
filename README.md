@@ -75,3 +75,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                    Stack with Queue                     |                  [Stack with Queue](./Stack-With-Queue/)                   |
 |                  Has Path Sum In Tree                   |              [Has Path Sum In Tree](./Has-Path-Sum-In-Tree/)               |
 |                     Perfect Square                      |                    [Perfect Square](./Perfect-Square/)                     |
+|        Matrix Spiral (Left-Right) & (Top-Bottom)        |                     [Matrix Spiral](./Matrix-Spiral/)                      |
