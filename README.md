@@ -78,3 +78,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |     Matrix Spiral (Left-Right) & (Top-Bottom) (IMP)     |                     [Matrix Spiral](./Matrix-Spiral/)                      |
 |     Generate Matrix By Spiral (Left - Right) (IMP)      |         [Generate Matrix By Spiral](./Generate-Matrix-By-Spiral/)          |
 |                 Max SubArray Sum (IMP)                  |                  [Max SubArray Sum](./Max-SubArray-Sum/)                   |
+|                Min Depth Of Binary Tree                 |            [Min Depth Of Binary Tree](./Min-Depth-Binary-Tree/)            |
