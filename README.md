@@ -81,3 +81,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                Min Depth Of Binary Tree                 |            [Min Depth Of Binary Tree](./Min-Depth-Binary-Tree/)            |
 |                      Reverse Bits                       |                       [Reverse Bits](./Reverse-Bit/)                       |
 |                    Binary Tree Paths                    |                 [Binary Tree Paths](./Binary-Tree-Paths/)                  |
+|           Unique Paths Matrix (Factorial Sol)           |               [Unique Paths Matrix](./Unique-Paths-Matrix/)                |
