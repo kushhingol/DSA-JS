@@ -80,3 +80,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                 Max SubArray Sum (IMP)                  |                  [Max SubArray Sum](./Max-SubArray-Sum/)                   |
 |                Min Depth Of Binary Tree                 |            [Min Depth Of Binary Tree](./Min-Depth-Binary-Tree/)            |
 |                      Reverse Bits                       |                       [Reverse Bits](./Reverse-Bit/)                       |
+|                    Binary Tree Paths                    |                 [Binary Tree Paths](./Binary-Tree-Paths/)                  |
