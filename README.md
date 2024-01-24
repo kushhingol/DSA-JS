@@ -83,3 +83,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                    Binary Tree Paths                    |                 [Binary Tree Paths](./Binary-Tree-Paths/)                  |
 |           Unique Paths Matrix (Factorial Sol)           |               [Unique Paths Matrix](./Unique-Paths-Matrix/)                |
 |                     Hamming Weight                      |                    [Hamming Weight](./Hamming-Weight/)                     |
+|             Remove Elements From LinkedList             |      [Remove Elements From LinkedList](./Remove-Elements-LinkedList/)      |
