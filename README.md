@@ -87,3 +87,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |            Merge Sorted Array [Top Intv 150]            |                [Merge Sorted Array](./Merge-Sorted-Array/)                 |
 |              Is Subsequence [Top Intv 150]              |                    [Is Subsequence](./Is-Subsequence/)                     |
 |           IsIsomorphic String [Top Intv 150]            |                   [Is Isomorphic](./Isomorphic-String/)                    |
+|                    Is Power Of Three                    |                 [Is Power Of Three](./Is-Power-Of-Three/)                  |
