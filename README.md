@@ -89,3 +89,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |           IsIsomorphic String [Top Intv 150]            |                   [Is Isomorphic](./Isomorphic-String/)                    |
 |                    Is Power Of Three                    |                 [Is Power Of Three](./Is-Power-Of-Three/)                  |
 |              Reverse Words [Top Intv 150]               |                     [Reverse Words](./Reverse-Words/)                      |
+|               Rotate Array [Top Intv 150]               |                      [Rotate Array](./Rotate-Array/)                       |
