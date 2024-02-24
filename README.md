@@ -92,3 +92,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |               Rotate Array [Top Intv 150]               |                      [Rotate Array](./Rotate-Array/)                       |
 |                Jump Game [Top Intv 150]                 |                         [Jump Game](./Jump-Game/)                          |
 |              Note Construct [Top Intv 150]              |                    [Note Construct](./Note-Construct/)                     |
+|               Word Pattern [Top Intv 150]               |                      [Word Pattern](./Word-Pattern/)                       |
