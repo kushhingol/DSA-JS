@@ -14,19 +14,18 @@ export const letterCombinations = (digits: string): string[] => {
 
   const result: string[] = [];
 
-  const dfs = (index: number, currentCombination: string) => {
+  const dfs = (index: number, combinationLetter: string) => {
     if (index === digits.length) {
-      result.push(currentCombination);
+      result.push(combinationLetter);
       return;
     }
-
     const letters = numbersToLetters[digits[index]];
-    for (const letter of letters) {
-      dfs(index + 1, currentCombination + letter);
+    for (let letter of letters) {
+      dfs(index + 1, combinationLetter + letter);
     }
   };
-
   dfs(0, "");
+
   return result;
 };
 
