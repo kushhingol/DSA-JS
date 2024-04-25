@@ -93,3 +93,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |                Jump Game [Top Intv 150]                 |                         [Jump Game](./Jump-Game/)                          |
 |              Note Construct [Top Intv 150]              |                    [Note Construct](./Note-Construct/)                     |
 |               Word Pattern [Top Intv 150]               |                      [Word Pattern](./Word-Pattern/)                       |
+|     Average Of Level In Binary Tree [Top Intv 150]      |        [Average Of Level In Binary Tree](./Average-of-level-in-BT/)        |
