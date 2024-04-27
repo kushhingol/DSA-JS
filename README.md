@@ -94,4 +94,5 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |              Note Construct [Top Intv 150]              |                    [Note Construct](./Note-Construct/)                     |
 |               Word Pattern [Top Intv 150]               |                      [Word Pattern](./Word-Pattern/)                       |
 |     Average Of Level In Binary Tree [Top Intv 150]      |        [Average Of Level In Binary Tree](./Average-of-level-in-BT/)        |
-|             Phone Number Combination [Rev]              |          [Phone Number Combination](./Phone-Number-Combination/)           |
+|      Phone Number Combination [Rev] (Backtracking)      |          [Phone Number Combination](./Phone-Number-Combination/)           |
+|           Generate Parentheses (Backtracking)           |              [Generate Parentheses](./Generate-Parentheses/)               |
