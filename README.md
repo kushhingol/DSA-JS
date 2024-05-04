@@ -96,3 +96,6 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |     Average Of Level In Binary Tree [Top Intv 150]      |        [Average Of Level In Binary Tree](./Average-of-level-in-BT/)        |
 |      Phone Number Combination [Rev] (Backtracking)      |          [Phone Number Combination](./Phone-Number-Combination/)           |
 |           Generate Parentheses (Backtracking)           |              [Generate Parentheses](./Generate-Parentheses/)               |
+|              N-Queen (Backtracking) [IMP]               |                           [N-Queen](./N-Queen/)                            |
+|      N-Queen-2 (Backtracking) [IMP] [Top Intv 150]      |                         [N-Queen-2](./n-queen-2/)                          |
+|            Gas Station [IMP] [Top Intv 150]             |                       [Gas Station](./Gas-Station/)                        |
