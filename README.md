@@ -99,3 +99,4 @@ e.g: `npm run test Generate Fibonacci Sequence`
 |              N-Queen (Backtracking) [IMP]               |                           [N-Queen](./N-Queen/)                            |
 |      N-Queen-2 (Backtracking) [IMP] [Top Intv 150]      |                         [N-Queen-2](./n-queen-2/)                          |
 |            Gas Station [IMP] [Top Intv 150]             |                       [Gas Station](./Gas-Station/)                        |
+|                     Array Partition                     |                  [Array Partition](./Array%20Partition/)                   |
